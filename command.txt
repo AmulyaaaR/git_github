@@ -1,0 +1,9 @@
+->git --version
+->git init(always happen in the hidden file of git)
+->git status
+->git add(to introduce single person)
+  git add .(to introduce multiple person or file)
+->git commit -m "first commit"
+->git stash
+->git help
+->git log
